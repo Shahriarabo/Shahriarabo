@@ -1,4 +1,4 @@
-![logo](https://github.com/Shahriarabo/Shahriarabo/blob/main/rasel.png)
+![logo](https://github.com/Shahriarabo/Shahriarabo/blob/main/rasels.png)
 <h1 align="center">Hi 👋, I'm Abdulla al Shahriar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding"width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
