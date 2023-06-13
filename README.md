@@ -1,6 +1,7 @@
 ![logo](https://github.com/Shahriarabo/Shahriarabo/blob/main/rasel.png)
 <h1 align="center">Hi 👋, I'm Abdulla al Shahriar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I am a student of computer science. </h3>
+<h3 align="center">A passionate frontend developer from Bangladesh. </h3>
 <img align="right" alt="coding"width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarabo&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarabo" /> </p>
 
